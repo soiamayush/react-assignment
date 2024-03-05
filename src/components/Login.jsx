@@ -26,7 +26,7 @@ const Login = (props) => {
       <MetaData title="Login" />
 
       <div className="notify">
-        <img src="/src/assets/Group 3.png" alt="moptro" />
+        <img src="/assets/Group 3.png" alt="moptro" />
       </div>
       <form action="" className="login-form" onSubmit={submitForm}>
         <div className="input-section">

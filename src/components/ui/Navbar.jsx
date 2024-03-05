@@ -5,10 +5,10 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <Link to="/">
-        <img src="/src/assets/dog-house.svg" alt="home" />
+        <img src="/assets/dog-house.svg" alt="home" />
       </Link>
       <Link to="/employees">
-        <img src="/src/assets/profile.svg" alt="user" />
+        <img src="/assets/profile.svg" alt="user" />
       </Link>
     </div>
   );

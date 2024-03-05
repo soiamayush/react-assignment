@@ -5,10 +5,10 @@ const Header = () => {
   return (
     <div className="home-header">
       <Link to="/">
-        <img src="/src/assets/Group 46.png" alt="contact" />
+        <img src="/assets/Group 46.png" alt="contact" />
       </Link>
       <div className="notify">
-        <img src="/src/assets/moptro logo.png" alt="moptro" />
+        <img src="/assets/moptro logo.png" alt="moptro" />
         <div>
           <p>4</p>
         </div>

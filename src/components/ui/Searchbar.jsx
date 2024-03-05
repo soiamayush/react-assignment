@@ -17,7 +17,7 @@ const Searchbar = () => {
         placeholder="Search with name"
         onChange={(e) => setSearchData(e.target.value)}
       />
-      <img src="/src/assets/search.svg" alt="search" />
+      <img src="/assets/search.svg" alt="search" />
     </div>
   );
 };
