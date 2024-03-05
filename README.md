@@ -40,15 +40,15 @@ password :- testing
 
 ### Login Page
 
-![Login Page](/assets/login.png)
+![Login Page](/public/assets/login.png)
 
 ### Dashboard Page
 
-![Dashboard Page](/assets/dashboard.png)
+![Dashboard Page](/public/assets/dashboard.png)
 
 ### Employers Listing Page
 
-![Employers Listing Page](/assets/list.png)
+![Employers Listing Page](/public/assets/list.png)
 
 ## Technologies Used
 
